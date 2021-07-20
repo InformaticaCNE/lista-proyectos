@@ -3,35 +3,35 @@
     {
       "name": "Proyecto 1",
       "id": 1,
-      "Hito 01": "",
-      "Hito 02": "",
-      "Hito 03": "",
-      "Hito 04": "",
-      "Hito 05": "",
-      "Hito 06": "",
-      "Hito 07": ""
+      "Hito_01": "",
+      "Hito_02": "",
+      "Hito_03": "",
+      "Hito_04": "",
+      "Hito_05": "",
+      "Hito_06": "",
+      "Hito_07": ""
     },
     {
       "name": "Proyecto 2",
       "id": 2,
-      "Hito 01": "",
-      "Hito 02": "",
-      "Hito 03": "",
-      "Hito 04": "",
-      "Hito 05": "",
-      "Hito 06": "",
-      "Hito 07": ""      
+      "Hito_01": "",
+      "Hito_02": "",
+      "Hito_03": "",
+      "Hito_04": "",
+      "Hito_05": "",
+      "Hito_06": "",
+      "Hito_07": ""
     },
     {
       "name": "Proyecto 3",
       "id": 3,
-      "Hito 01": "",
-      "Hito 02": "",
-      "Hito 03": "",
-      "Hito 04": "",
-      "Hito 05": "",
-      "Hito 06": "",
-      "Hito 07": ""      
+      "Hito_01": "",
+      "Hito_02": "",
+      "Hito_03": "",
+      "Hito_04": "",
+      "Hito_05": "",
+      "Hito_06": "",
+      "Hito_07": ""
     }
   ] 
 }
